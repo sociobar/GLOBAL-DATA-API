@@ -1,0 +1,1779 @@
+[
+  {
+    "Name": "Afghanistan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/af-flag.jpg",
+    "Population": "33,332,025",
+    "GDP": "$64.08 Billion",
+    "Code": "AF",
+    "ISO_Alpha": "AFG",
+    "PhoneCode": "+93"
+  },
+  {
+    "Name": "Albania",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/al-flag.jpg",
+    "Population": "3,038,594",
+    "GDP": "$33.90 Billion",
+    "Code": "AL",
+    "ISO_Alpha": "ALB",
+    "PhoneCode": "+355"
+  },
+  {
+    "Name": "Algeria",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/dz-flag.jpg",
+    "Population": "40,263,711",
+    "GDP": "$609.00 Billion",
+    "Code": "DZ",
+    "ISO_Alpha": "DZA",
+    "PhoneCode": "+213"
+  },
+  {
+    "Name": "Andorra",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ad-flag.jpg",
+    "Population": "85,660",
+    "GDP": "$3.33 Billion",
+    "Code": "AD",
+    "ISO_Alpha": "AND",
+    "PhoneCode": "+376"
+  },
+  {
+    "Name": "Angola",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ao-flag.jpg",
+    "Population": "25,789,024",
+    "GDP": "$189.00 Billion",
+    "Code": "AO",
+    "ISO_Alpha": "AGO",
+    "PhoneCode": "+244"
+  },
+  {
+    "Name": "Antigua and Barbuda",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ag-flag.jpg",
+    "Population": "93,581",
+    "GDP": "$2.17 Billion",
+    "Code": "AG",
+    "ISO_Alpha": "ATG",
+    "PhoneCode": "+1-268"
+  },
+  {
+    "Name": "Argentina",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ar-flag.jpg",
+    "Population": "43,886,748",
+    "GDP": "$879.00 Billion",
+    "Code": "AR",
+    "ISO_Alpha": "ARG",
+    "PhoneCode": "+54"
+  },
+  {
+    "Name": "Armenia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/am-flag.jpg",
+    "Population": "3,051,250",
+    "GDP": "$26.30 Billion",
+    "Code": "AM",
+    "ISO_Alpha": "ARM",
+    "PhoneCode": "+374"
+  },
+  {
+    "Name": "Australia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/au-flag.jpg",
+    "Population": "22,992,654",
+    "GDP": "$1.19 Trillion",
+    "Code": "AU",
+    "ISO_Alpha": "AUS",
+    "PhoneCode": "+61"
+  },
+  {
+    "Name": "Austria",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/at-flag.jpg",
+    "Population": "8,711,770",
+    "GDP": "$417.00 Billion",
+    "Code": "AT",
+    "ISO_Alpha": "AUT",
+    "PhoneCode": "+43"
+  },
+  {
+    "Name": "Azerbaijan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/az-flag.jpg",
+    "Population": "9,872,765",
+    "GDP": "$166.00 Billion",
+    "Code": "AZ",
+    "ISO_Alpha": "AZE",
+    "PhoneCode": "+994"
+  },
+  {
+    "Name": "Bahamas",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bs-flag.jpg",
+    "Population": "327,316",
+    "GDP": "$9.07 Billion",
+    "Code": "BHS",
+    "ISO_Alpha": "+1-242",
+    "PhoneCode": ""
+  },
+  {
+    "Name": "Bahrain",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bh-flag.jpg",
+    "Population": "1,378,904",
+    "GDP": "$66.37 Billion",
+    "Code": "BH",
+    "ISO_Alpha": "BHR",
+    "PhoneCode": "+973"
+  },
+  {
+    "Name": "Bangladesh",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bd-flag.jpg",
+    "Population": "156,186,882",
+    "GDP": "$628.00 Billion",
+    "Code": "BD",
+    "ISO_Alpha": "BGD",
+    "PhoneCode": "+880"
+  },
+  {
+    "Name": "Barbados",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bb-flag.jpg",
+    "Population": "291,495",
+    "GDP": "$4.80 Billion",
+    "Code": "BB",
+    "ISO_Alpha": "BRB",
+    "PhoneCode": "+1-246"
+  },
+  {
+    "Name": "Belarus",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/by-flag.jpg",
+    "Population": "9,570,376",
+    "GDP": "$166.00 Billion",
+    "Code": "BY",
+    "ISO_Alpha": "BLR",
+    "PhoneCode": "+375"
+  },
+  {
+    "Name": "Belgium",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/be-flag.jpg",
+    "Population": "11,409,077",
+    "GDP": "$509.00 Billion",
+    "Code": "BE",
+    "ISO_Alpha": "BEL",
+    "PhoneCode": "+32"
+  },
+  {
+    "Name": "Belize",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bz-flag.jpg",
+    "Population": "353,858",
+    "GDP": "$3.09 Billion",
+    "Code": "BZ",
+    "ISO_Alpha": "BLZ",
+    "PhoneCode": "+501"
+  },
+  {
+    "Name": "Benin",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bj-flag.jpg",
+    "Population": "10,741,458",
+    "GDP": "$24.31 Billion",
+    "Code": "BJ",
+    "ISO_Alpha": "BEN",
+    "PhoneCode": "+229"
+  },
+  {
+    "Name": "Bhutan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bt-flag.jpg",
+    "Population": "750,125",
+    "GDP": "$6.43 Billion",
+    "Code": "BT",
+    "ISO_Alpha": "BTN",
+    "PhoneCode": "+975"
+  },
+  {
+    "Name": "Bolivia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bo-flag.jpg",
+    "Population": "10,969,649",
+    "GDP": "$78.66 Billion",
+    "Code": "BO",
+    "ISO_Alpha": "BOL",
+    "PhoneCode": "+591"
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ba-flag.jpg",
+    "Population": "3,861,912",
+    "GDP": "$42.53 Billion",
+    "Code": "BA",
+    "ISO_Alpha": "BIH",
+    "PhoneCode": "+387"
+  },
+  {
+    "Name": "Botswana",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bw-flag.jpg",
+    "Population": "2,209,208",
+    "GDP": "$35.90 Billion",
+    "Code": "BW",
+    "ISO_Alpha": "BWA",
+    "PhoneCode": "+267"
+  },
+  {
+    "Name": "Brazil",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/br-flag.jpg",
+    "Population": "205,823,665",
+    "GDP": "$3.08 Trillion",
+    "Code": "BR",
+    "ISO_Alpha": "BRA",
+    "PhoneCode": "+55"
+  },
+  {
+    "Name": "Brunei",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bn-flag.jpg",
+    "Population": "436,620",
+    "GDP": "$33.73 Billion",
+    "Code": "BN",
+    "ISO_Alpha": "BRN",
+    "PhoneCode": "+673"
+  },
+  {
+    "Name": "Bulgaria",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bg-flag.jpg",
+    "Population": "7,144,653",
+    "GDP": "$143.00 Billion",
+    "Code": "BG",
+    "ISO_Alpha": "BGR",
+    "PhoneCode": "+359"
+  },
+  {
+    "Name": "Burkina Faso",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bf-flag.jpg",
+    "Population": "19,512,533",
+    "GDP": "$32.99 Billion",
+    "Code": "BF",
+    "ISO_Alpha": "BFA",
+    "PhoneCode": "+226"
+  },
+  {
+    "Name": "Burundi",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/bi-flag.jpg",
+    "Population": "11,099,298",
+    "GDP": "$7.89 Billion",
+    "Code": "BI",
+    "ISO_Alpha": "BDI",
+    "PhoneCode": "+257"
+  },
+  {
+    "Name": "Cambodia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/kh-flag.jpg",
+    "Population": "15,957,223",
+    "GDP": "$58.94 Billion",
+    "Code": "KH",
+    "ISO_Alpha": "KHM",
+    "PhoneCode": "+855"
+  },
+  {
+    "Name": "Cameroon",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cm-flag.jpg",
+    "Population": "24,360,803",
+    "GDP": "$77.24 Billion",
+    "Code": "CM",
+    "ISO_Alpha": "CMR",
+    "PhoneCode": "+237"
+  },
+  {
+    "Name": "Canada",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ca-flag.jpg",
+    "Population": "35,362,905",
+    "GDP": "$1.67 Trillion",
+    "Code": "CA",
+    "ISO_Alpha": "CAN",
+    "PhoneCode": "+1"
+  },
+  {
+    "Name": "Cape Verde",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cv-flag.jpg",
+    "Population": "553,432",
+    "GDP": "$3.58 Billion",
+    "Code": "CV",
+    "ISO_Alpha": "CPV",
+    "PhoneCode": "+238"
+  },
+  {
+    "Name": "Central African Republic",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cf-flag.jpg",
+    "Population": "5,507,257",
+    "GDP": "$3.21 Billion",
+    "Code": "CF",
+    "ISO_Alpha": "CAF",
+    "PhoneCode": "+236"
+  },
+  {
+    "Name": "Chad",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/td-flag.jpg",
+    "Population": "11,852,462",
+    "GDP": "$30.59 Billion",
+    "Code": "TD",
+    "ISO_Alpha": "TCD",
+    "PhoneCode": "+235"
+  },
+  {
+    "Name": "Chile",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cl-flag.jpg",
+    "Population": "17,650,114",
+    "GDP": "$436.00 Billion",
+    "Code": "CL",
+    "ISO_Alpha": "CHL",
+    "PhoneCode": "+56"
+  },
+  {
+    "Name": "China",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cn-flag.jpg",
+    "Population": "1,373,541,278",
+    "GDP": "$21.10 Trillion",
+    "Code": "CN",
+    "ISO_Alpha": "CHN",
+    "PhoneCode": "+86"
+  },
+  {
+    "Name": "Colombia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/co-flag.jpg",
+    "Population": "47,220,856",
+    "GDP": "$688.00 Billion",
+    "Code": "CO",
+    "ISO_Alpha": "COL",
+    "PhoneCode": "+57"
+  },
+  {
+    "Name": "Comoros",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/km-flag.jpg",
+    "Population": "794,678",
+    "GDP": "$1.26 Billion",
+    "Code": "KM",
+    "ISO_Alpha": "COM",
+    "PhoneCode": "+269"
+  },
+  {
+    "Name": "Republic of the Congo",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cg-flag.jpg",
+    "Population": "4,852,412",
+    "GDP": "$30.27 Billion",
+    "Code": "COG",
+    "ISO_Alpha": "+242",
+    "PhoneCode": ""
+  },
+  {
+    "Name": "Costa Rica",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cr-flag.jpg",
+    "Population": "4,872,543",
+    "GDP": "$79.26 Billion",
+    "Code": "CR",
+    "ISO_Alpha": "CRI",
+    "PhoneCode": "+506"
+  },
+  {
+    "Name": "Ivory Coast",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ci-flag.jpg",
+    "Population": "23,740,424",
+    "GDP": "$87.12 Billion",
+    "Code": "CI",
+    "ISO_Alpha": "CIV",
+    "PhoneCode": "+225"
+  },
+  {
+    "Name": "Croatia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/hr-flag.jpg",
+    "Population": "4,313,707",
+    "GDP": "$94.24 Billion",
+    "Code": "HR",
+    "ISO_Alpha": "HRV",
+    "PhoneCode": "+385"
+  },
+  {
+    "Name": "Cuba",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cu-flag.jpg",
+    "Population": "11,179,995",
+    "GDP": "$133.00 Billion",
+    "Code": "CU",
+    "ISO_Alpha": "CUB",
+    "PhoneCode": "+53"
+  },
+  {
+    "Name": "Cyprus",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cy-flag.jpg",
+    "Population": "1,205,575",
+    "GDP": "$29.26 Billion",
+    "Code": "CY",
+    "ISO_Alpha": "CYP",
+    "PhoneCode": "+357"
+  },
+  {
+    "Name": "Czech Republic",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cz-flag.jpg",
+    "Population": "10,644,842",
+    "GDP": "$351.00 Billion",
+    "Code": "CZ",
+    "ISO_Alpha": "CZE",
+    "PhoneCode": "+420"
+  },
+  {
+    "Name": "Democratic Republic of the Congo",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/cd-flag.jpg",
+    "Population": "81,331,050",
+    "GDP": "$65.04 Billion",
+    "Code": "COD",
+    "ISO_Alpha": "+243",
+    "PhoneCode": ""
+  },
+  {
+    "Name": "Denmark",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/dk-flag.jpg",
+    "Population": "5,593,785",
+    "GDP": "$265.00 Billion",
+    "Code": "DK",
+    "ISO_Alpha": "DNK",
+    "PhoneCode": "+45"
+  },
+  {
+    "Name": "Djibouti",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/dj-flag.jpg",
+    "Population": "846,687",
+    "GDP": "$3.35 Billion",
+    "Code": "DJ",
+    "ISO_Alpha": "DJI",
+    "PhoneCode": "+253"
+  },
+  {
+    "Name": "Dominica",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/dm-flag.jpg",
+    "Population": "73,757",
+    "GDP": "$812.00 Million",
+    "Code": "DM",
+    "ISO_Alpha": "DMA",
+    "PhoneCode": "+1-767"
+  },
+  {
+    "Name": "Dominican Republic",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/do-flag.jpg",
+    "Population": "10,606,865",
+    "GDP": "$162.00 Billion",
+    "Code": "DO",
+    "ISO_Alpha": "DOM",
+    "PhoneCode": "+1-809 and"
+  },
+  {
+    "Name": "Ecuador",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ec-flag.jpg",
+    "Population": "16,080,778",
+    "GDP": "$182.00 Billion",
+    "Code": "EC",
+    "ISO_Alpha": "ECU",
+    "PhoneCode": "+593"
+  },
+  {
+    "Name": "Egypt",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/eg-flag.jpg",
+    "Population": "94,666,993",
+    "GDP": "$1.11 Trillion",
+    "Code": "EG",
+    "ISO_Alpha": "EGY",
+    "PhoneCode": "+20"
+  },
+  {
+    "Name": "El Salvador",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sv-flag.jpg",
+    "Population": "6,156,670",
+    "GDP": "$54.79 Billion",
+    "Code": "SV",
+    "ISO_Alpha": "SLV",
+    "PhoneCode": "+503"
+  },
+  {
+    "Name": "Equatorial Guinea",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gq-flag.jpg",
+    "Population": "759,451",
+    "GDP": "$31.77 Billion",
+    "Code": "GQ",
+    "ISO_Alpha": "GNQ",
+    "PhoneCode": "+240"
+  },
+  {
+    "Name": "Eritrea",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/er-flag.jpg",
+    "Population": "5,869,869",
+    "GDP": "$9.17 Billion",
+    "Code": "ER",
+    "ISO_Alpha": "ERI",
+    "PhoneCode": "+291"
+  },
+  {
+    "Name": "Estonia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ee-flag.jpg",
+    "Population": "1,258,545",
+    "GDP": "$38.93 Billion",
+    "Code": "EE",
+    "ISO_Alpha": "EST",
+    "PhoneCode": "+372"
+  },
+  {
+    "Name": "Eswatini",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sz-flag.jpg",
+    "Population": "1,451,428",
+    "GDP": "$10.94 Billion",
+    "Code": "SZ",
+    "ISO_Alpha": "SWZ",
+    "PhoneCode": "+268"
+  },
+  {
+    "Name": "Ethiopia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/et-flag.jpg",
+    "Population": "102,374,044",
+    "GDP": "$175.00 Billion",
+    "Code": "ET",
+    "ISO_Alpha": "ETH",
+    "PhoneCode": "+251"
+  },
+  {
+    "Name": "Fiji",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/fj-flag.jpg",
+    "Population": "915,303",
+    "GDP": "$8.37 Billion",
+    "Code": "FJ",
+    "ISO_Alpha": "FJI",
+    "PhoneCode": "+679"
+  },
+  {
+    "Name": "Finland",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/fi-flag.jpg",
+    "Population": "5,498,211",
+    "GDP": "$226.00 Billion",
+    "Code": "FI",
+    "ISO_Alpha": "FIN",
+    "PhoneCode": "+358"
+  },
+  {
+    "Name": "France",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/fr-flag.jpg",
+    "Population": "66,836,154",
+    "GDP": "$2.70 Trillion",
+    "Code": "FR",
+    "ISO_Alpha": "FRA",
+    "PhoneCode": "+33"
+  },
+  {
+    "Name": "Gabon",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ga-flag.jpg",
+    "Population": "1,738,541",
+    "GDP": "$35.98 Billion",
+    "Code": "GA",
+    "ISO_Alpha": "GAB",
+    "PhoneCode": "+241"
+  },
+  {
+    "Name": "Gambia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gm-flag.jpg",
+    "Population": "2,009,648",
+    "GDP": "$3.39 Billion",
+    "Code": "GMB",
+    "ISO_Alpha": "+220",
+    "PhoneCode": ""
+  },
+  {
+    "Name": "Georgia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ge-flag.jpg",
+    "Population": "4,928,052",
+    "GDP": "$37.27 Billion",
+    "Code": "GE",
+    "ISO_Alpha": "GEO",
+    "PhoneCode": "+995"
+  },
+  {
+    "Name": "Germany",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/de-flag.jpg",
+    "Population": "80,722,792",
+    "GDP": "$3.98 Trillion",
+    "Code": "DE",
+    "ISO_Alpha": "DEU",
+    "PhoneCode": "+49"
+  },
+  {
+    "Name": "Ghana",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gh-flag.jpg",
+    "Population": "26,908,262",
+    "GDP": "$121.00 Billion",
+    "Code": "GH",
+    "ISO_Alpha": "GHA",
+    "PhoneCode": "+233"
+  },
+  {
+    "Name": "Greece",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gr-flag.jpg",
+    "Population": "10,773,253",
+    "GDP": "$291.00 Billion",
+    "Code": "GR",
+    "ISO_Alpha": "GRC",
+    "PhoneCode": "+30"
+  },
+  {
+    "Name": "Grenada",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gd-flag.jpg",
+    "Population": "111,219",
+    "GDP": "$1.51 Billion",
+    "Code": "GD",
+    "ISO_Alpha": "GRD",
+    "PhoneCode": "+1-473"
+  },
+  {
+    "Name": "Guatemala",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gt-flag.jpg",
+    "Population": "15,189,958",
+    "GDP": "$132.00 Billion",
+    "Code": "GT",
+    "ISO_Alpha": "GTM",
+    "PhoneCode": "+502"
+  },
+  {
+    "Name": "Guinea",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gn-flag.jpg",
+    "Population": "12,093,349",
+    "GDP": "$16.08 Billion",
+    "Code": "GN",
+    "ISO_Alpha": "GIN",
+    "PhoneCode": "+224"
+  },
+  {
+    "Name": "Guinea-Bissau",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gw-flag.jpg",
+    "Population": "1,759,159",
+    "GDP": "$2.85 Billion",
+    "Code": "GW",
+    "ISO_Alpha": "GNB",
+    "PhoneCode": "+245"
+  },
+  {
+    "Name": "Guyana",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/gy-flag.jpg",
+    "Population": "735,909",
+    "GDP": "$6.05 Billion",
+    "Code": "GY",
+    "ISO_Alpha": "GUY",
+    "PhoneCode": "+592"
+  },
+  {
+    "Name": "Haiti",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ht-flag.jpg",
+    "Population": "10,485,800",
+    "GDP": "$19.34 Billion",
+    "Code": "HT",
+    "ISO_Alpha": "HTI",
+    "PhoneCode": "+509"
+  },
+  {
+    "Name": "Honduras",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/hn-flag.jpg",
+    "Population": "8,893,259",
+    "GDP": "$43.19 Billion",
+    "Code": "HN",
+    "ISO_Alpha": "HND",
+    "PhoneCode": "+504"
+  },
+  {
+    "Name": "Hungary",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/hu-flag.jpg",
+    "Population": "9,874,784",
+    "GDP": "$268.00 Billion",
+    "Code": "HU",
+    "ISO_Alpha": "HUN",
+    "PhoneCode": "+36"
+  },
+  {
+    "Name": "Iceland",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/is-flag.jpg",
+    "Population": "335,878",
+    "GDP": "$16.15 Billion",
+    "Code": "IS",
+    "ISO_Alpha": "ISL",
+    "PhoneCode": "+354"
+  },
+  {
+    "Name": "India",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/in-flag.jpg",
+    "Population": "1,266,883,598",
+    "GDP": "$8.72 Trillion",
+    "Code": "IN",
+    "ISO_Alpha": "IND",
+    "PhoneCode": "+91",
+    "States": {
+      "Andhra Pradesh": "AP",
+      "Arunachal Pradesh": "AR",
+      "Assam": "AS",
+      "Bihar": "BR",
+      "Chhattisgarh": "CT",
+      "Goa": "GA",
+      "Gujarat": "GJ",
+      "Haryana": "HR",
+      "Himachal Pradesh": "HP",
+      "Jharkhand": "JH",
+      "Karnataka": "KA",
+      "Kerala": "KL",
+      "Madhya Pradesh": "MP",
+      "Maharashtra": "MH",
+      "Manipur": "MN",
+      "Meghalaya": "ML",
+      "Mizoram": "MZ",
+      "Nagaland": "NL",
+      "Odisha": "OR",
+      "Punjab": "PB",
+      "Rajasthan": "RJ",
+      "Sikkim": "SK",
+      "Tamil Nadu": "TN",
+      "Telangana": "TS",
+      "Tripura": "TR",
+      "Uttar Pradesh": "UP",
+      "Uttarakhand": "UK",
+      "West Bengal": "WB"
+    },
+    "UnionTerritories": {
+      "Andaman Nicobar": "AN",
+      "Chandigarh": "CH",
+      "Dadra Nagar Haveli": "DH",
+      "Jammu & Kashmir": "J&K",
+      "Lakshadweep": "",
+      "The Government of NCT of Delhi": "",
+      "Ladakh": "",
+      "Puducherry": ""
+    }
+  },
+  {
+    "Name": "Indonesia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/id-flag.jpg",
+    "Population": "258,316,051",
+    "GDP": "$3.03 Trillion",
+    "Code": "ID",
+    "ISO_Alpha": "IDN",
+    "PhoneCode": "+62"
+  },
+  {
+    "Name": "Iran",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ir-flag.jpg",
+    "Population": "82,801,633",
+    "GDP": "$1.46 Trillion",
+    "Code": "IR",
+    "ISO_Alpha": "IRN",
+    "PhoneCode": "+98"
+  },
+  {
+    "Name": "Iraq",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/iq-flag.jpg",
+    "Population": "38,146,025",
+    "GDP": "$597.00 Billion",
+    "Code": "IQ",
+    "ISO_Alpha": "IRQ",
+    "PhoneCode": "+964"
+  },
+  {
+    "Name": "Ireland",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ie-flag.jpg",
+    "Population": "4,952,473",
+    "GDP": "$322.00 Billion",
+    "Code": "IE",
+    "ISO_Alpha": "IRL",
+    "PhoneCode": "+353"
+  },
+  {
+    "Name": "Israel",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/il-flag.jpg",
+    "Population": "8,174,527",
+    "GDP": "$297.00 Billion",
+    "Code": "IL",
+    "ISO_Alpha": "ISR",
+    "PhoneCode": "+972"
+  },
+  {
+    "Name": "Italy",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/it-flag.jpg",
+    "Population": "62,007,540",
+    "GDP": "$2.22 Trillion",
+    "Code": "IT",
+    "ISO_Alpha": "ITA",
+    "PhoneCode": "+39"
+  },
+  {
+    "Name": "Jamaica",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/jm-flag.jpg",
+    "Population": "2,970,340",
+    "GDP": "$25.39 Billion",
+    "Code": "JM",
+    "ISO_Alpha": "JAM",
+    "PhoneCode": "+1-876"
+  },
+  {
+    "Name": "Japan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/jp-flag.jpg",
+    "Population": "126,702,133",
+    "GDP": "$4.93 Trillion",
+    "Code": "JP",
+    "ISO_Alpha": "JPN",
+    "PhoneCode": "+81"
+  },
+  {
+    "Name": "Jordan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/jo-flag.jpg",
+    "Population": "8,185,384",
+    "GDP": "$86.19 Billion",
+    "Code": "JO",
+    "ISO_Alpha": "JOR",
+    "PhoneCode": "+962"
+  },
+  {
+    "Name": "Kazakhstan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/kz-flag.jpg",
+    "Population": "18,360,353",
+    "GDP": "$469.00 Billion",
+    "Code": "KZ",
+    "ISO_Alpha": "KAZ",
+    "PhoneCode": "+7"
+  },
+  {
+    "Name": "Kenya",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ke-flag.jpg",
+    "Population": "46,790,758",
+    "GDP": "$153.00 Billion",
+    "Code": "KE",
+    "ISO_Alpha": "KEN",
+    "PhoneCode": "+254"
+  },
+  {
+    "Name": "Kiribati",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ki-flag.jpg",
+    "Population": "106,925",
+    "GDP": "$211.00 Million",
+    "Code": "KI",
+    "ISO_Alpha": "KIR",
+    "PhoneCode": "+686"
+  },
+  {
+    "Name": "Kuwait",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/kw-flag.jpg",
+    "Population": "2,832,776",
+    "GDP": "$301.00 Billion",
+    "Code": "KW",
+    "ISO_Alpha": "KWT",
+    "PhoneCode": "+965"
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/kg-flag.jpg",
+    "Population": "5,727,553",
+    "GDP": "$21.01 Billion",
+    "Code": "KG",
+    "ISO_Alpha": "KGZ",
+    "PhoneCode": "+996"
+  },
+  {
+    "Name": "Laos",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/la-flag.jpg",
+    "Population": "7,019,073",
+    "GDP": "$40.96 Billion",
+    "Code": "LA",
+    "ISO_Alpha": "LAO",
+    "PhoneCode": "+856"
+  },
+  {
+    "Name": "Latvia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/lv-flag.jpg",
+    "Population": "1,965,686",
+    "GDP": "$50.65 Billion",
+    "Code": "LV",
+    "ISO_Alpha": "LVA",
+    "PhoneCode": "+371"
+  },
+  {
+    "Name": "Lebanon",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/lb-flag.jpg",
+    "Population": "6,237,738",
+    "GDP": "$85.16 Billion",
+    "Code": "LB",
+    "ISO_Alpha": "LBN",
+    "PhoneCode": "+961"
+  },
+  {
+    "Name": "Lesotho",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ls-flag.jpg",
+    "Population": "1,953,070",
+    "GDP": "$6.02 Billion",
+    "Code": "LS",
+    "ISO_Alpha": "LSO",
+    "PhoneCode": "+266"
+  },
+  {
+    "Name": "Liberia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/lr-flag.jpg",
+    "Population": "4,299,944",
+    "GDP": "$3.79 Billion",
+    "Code": "LR",
+    "ISO_Alpha": "LBR",
+    "PhoneCode": "+231"
+  },
+  {
+    "Name": "Libya",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ly-flag.jpg",
+    "Population": "6,541,948",
+    "GDP": "$90.89 Billion",
+    "Code": "LY",
+    "ISO_Alpha": "LBY",
+    "PhoneCode": "+218"
+  },
+  {
+    "Name": "Liechtenstein",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/li-flag.jpg",
+    "Population": "37,937",
+    "GDP": "$4.98 Billion",
+    "Code": "LI",
+    "ISO_Alpha": "LIE",
+    "PhoneCode": "+423"
+  },
+  {
+    "Name": "Lithuania",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/lt-flag.jpg",
+    "Population": "2,854,235",
+    "GDP": "$85.62 Billion",
+    "Code": "LT",
+    "ISO_Alpha": "LTU",
+    "PhoneCode": "+370"
+  },
+  {
+    "Name": "Luxembourg",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/lu-flag.jpg",
+    "Population": "582,291",
+    "GDP": "$58.74 Billion",
+    "Code": "LU",
+    "ISO_Alpha": "LUX",
+    "PhoneCode": "+352"
+  },
+  {
+    "Name": "Macedonia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mk-flag.jpg",
+    "Population": "2,100,025",
+    "GDP": "$29.52 Billion",
+    "Code": "MK",
+    "ISO_Alpha": "MKD",
+    "PhoneCode": "+389"
+  },
+  {
+    "Name": "Madagascar",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mg-flag.jpg",
+    "Population": "24,430,325",
+    "GDP": "$37.48 Billion",
+    "Code": "MG",
+    "ISO_Alpha": "MDG",
+    "PhoneCode": "+261"
+  },
+  {
+    "Name": "Malawi",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mw-flag.jpg",
+    "Population": "18,570,321",
+    "GDP": "$21.20 Billion",
+    "Code": "MW",
+    "ISO_Alpha": "MWI",
+    "PhoneCode": "+265"
+  },
+  {
+    "Name": "Malaysia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/my-flag.jpg",
+    "Population": "30,949,962",
+    "GDP": "$863.00 Billion",
+    "Code": "MY",
+    "ISO_Alpha": "MYS",
+    "PhoneCode": "+60"
+  },
+  {
+    "Name": "Maldives",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mv-flag.jpg",
+    "Population": "392,960",
+    "GDP": "$5.41 Billion",
+    "Code": "MV",
+    "ISO_Alpha": "MDV",
+    "PhoneCode": "+960"
+  },
+  {
+    "Name": "Mali",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ml-flag.jpg",
+    "Population": "17,467,108",
+    "GDP": "$38.09 Billion",
+    "Code": "ML",
+    "ISO_Alpha": "MLI",
+    "PhoneCode": "+223"
+  },
+  {
+    "Name": "Malta",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mt-flag.jpg",
+    "Population": "415,196",
+    "GDP": "$16.32 Billion",
+    "Code": "MT",
+    "ISO_Alpha": "MLT",
+    "PhoneCode": "+356"
+  },
+  {
+    "Name": "Marshall Islands",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mh-flag.jpg",
+    "Population": "73,376",
+    "GDP": "$180.00 Million",
+    "Code": "MH",
+    "ISO_Alpha": "MHL",
+    "PhoneCode": "+692"
+  },
+  {
+    "Name": "Mauritania",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mr-flag.jpg",
+    "Population": "3,677,293",
+    "GDP": "$16.71 Billion",
+    "Code": "MR",
+    "ISO_Alpha": "MRT",
+    "PhoneCode": "+222"
+  },
+  {
+    "Name": "Mauritius",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mu-flag.jpg",
+    "Population": "1,348,242",
+    "GDP": "$25.85 Billion",
+    "Code": "MU",
+    "ISO_Alpha": "MUS",
+    "PhoneCode": "+230"
+  },
+  {
+    "Name": "Mexico",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mx-flag.jpg",
+    "Population": "123,166,749",
+    "GDP": "$2.31 Trillion",
+    "Code": "MX",
+    "ISO_Alpha": "MEX",
+    "PhoneCode": "+52"
+  },
+  {
+    "Name": "Micronesia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/fm-flag.jpg",
+    "Population": "104,719",
+    "GDP": "$314.00 Million",
+    "Code": "FSM",
+    "ISO_Alpha": "+691",
+    "PhoneCode": ""
+  },
+  {
+    "Name": "Moldova",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/md-flag.jpg",
+    "Population": "3,510,485",
+    "GDP": "$18.54 Billion",
+    "Code": "MD",
+    "ISO_Alpha": "MDA",
+    "PhoneCode": "+373"
+  },
+  {
+    "Name": "Monaco",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mc-flag.jpg",
+    "Population": "30,581",
+    "GDP": "$7.67 Billion",
+    "Code": "MC",
+    "ISO_Alpha": "MCO",
+    "PhoneCode": "+377"
+  },
+  {
+    "Name": "Mongolia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mn-flag.jpg",
+    "Population": "3,031,330",
+    "GDP": "$37.00 Billion",
+    "Code": "MN",
+    "ISO_Alpha": "MNG",
+    "PhoneCode": "+976"
+  },
+  {
+    "Name": "Montenegro",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/me-flag.jpg",
+    "Population": "644,578",
+    "GDP": "$10.61 Billion",
+    "Code": "ME",
+    "ISO_Alpha": "MNE",
+    "PhoneCode": "+382"
+  },
+  {
+    "Name": "Morocco",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ma-flag.jpg",
+    "Population": "33,655,786",
+    "GDP": "$283.00 Billion",
+    "Code": "MA",
+    "ISO_Alpha": "MAR",
+    "PhoneCode": "+212"
+  },
+  {
+    "Name": "Mozambique",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mz-flag.jpg",
+    "Population": "25,930,150",
+    "GDP": "$35.01 Billion",
+    "Code": "MZ",
+    "ISO_Alpha": "MOZ",
+    "PhoneCode": "+258"
+  },
+  {
+    "Name": "Myanmar",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/mm-flag.jpg",
+    "Population": "56,890,418",
+    "GDP": "$307.00 Billion",
+    "Code": "MM",
+    "ISO_Alpha": "MMR",
+    "PhoneCode": "+95"
+  },
+  {
+    "Name": "Namibia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/na-flag.jpg",
+    "Population": "2,436,469",
+    "GDP": "$25.99 Billion",
+    "Code": "NA",
+    "ISO_Alpha": "NAM",
+    "PhoneCode": "+264"
+  },
+  {
+    "Name": "Nauru",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/nr-flag.jpg",
+    "Population": "9,591",
+    "GDP": "$150.80 Million",
+    "Code": "NR",
+    "ISO_Alpha": "NRU",
+    "PhoneCode": "+674"
+  },
+  {
+    "Name": "Nepal",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/np-flag.jpg",
+    "Population": "29,033,914",
+    "GDP": "$71.52 Billion",
+    "Code": "NP",
+    "ISO_Alpha": "NPL",
+    "PhoneCode": "+977"
+  },
+  {
+    "Name": "Netherlands",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/nl-flag.jpg",
+    "Population": "17,016,967",
+    "GDP": "$871.00 Billion",
+    "Code": "NL",
+    "ISO_Alpha": "NLD",
+    "PhoneCode": "+31"
+  },
+  {
+    "Name": "New Zealand",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/nz-flag.jpg",
+    "Population": "4,474,549",
+    "GDP": "$175.00 Billion",
+    "Code": "NZ",
+    "ISO_Alpha": "NZL",
+    "PhoneCode": "+64"
+  },
+  {
+    "Name": "Nicaragua",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ni-flag.jpg",
+    "Population": "5,966,798",
+    "GDP": "$33.55 Billion",
+    "Code": "NI",
+    "ISO_Alpha": "NIC",
+    "PhoneCode": "+505"
+  },
+  {
+    "Name": "Niger",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ne-flag.jpg",
+    "Population": "18,638,600",
+    "GDP": "$20.15 Billion",
+    "Code": "NE",
+    "ISO_Alpha": "NER",
+    "PhoneCode": "+227"
+  },
+  {
+    "Name": "Nigeria",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ng-flag.jpg",
+    "Population": "186,053,386",
+    "GDP": "$1.09 Trillion",
+    "Code": "NG",
+    "ISO_Alpha": "NGA",
+    "PhoneCode": "+234"
+  },
+  {
+    "Name": "North Korea",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/kp-flag.jpg",
+    "Population": "25,115,311",
+    "GDP": "$40.00 Billion",
+    "Code": "PRK",
+    "ISO_Alpha": "+850",
+    "PhoneCode": ""
+  },
+  {
+    "Name": "Norway",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/no-flag.jpg",
+    "Population": "5,265,158",
+    "GDP": "$365.00 Billion",
+    "Code": "NO",
+    "ISO_Alpha": "NOR",
+    "PhoneCode": "+47"
+  },
+  {
+    "Name": "Oman",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/om-flag.jpg",
+    "Population": "3,355,262",
+    "GDP": "$173.00 Billion",
+    "Code": "OM",
+    "ISO_Alpha": "OMN",
+    "PhoneCode": "+968"
+  },
+  {
+    "Name": "Pakistan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/pk-flag.jpg",
+    "Population": "201,995,540",
+    "GDP": "$988.00 Billion",
+    "Code": "PK",
+    "ISO_Alpha": "PAK",
+    "PhoneCode": "+92"
+  },
+  {
+    "Name": "Palau",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/pw-flag.jpg",
+    "Population": "21,347",
+    "GDP": "$283.50 Million",
+    "Code": "PW",
+    "ISO_Alpha": "PLW",
+    "PhoneCode": "+680"
+  },
+  {
+    "Name": "Panama",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/pa-flag.jpg",
+    "Population": "3,705,246",
+    "GDP": "$93.12 Billion",
+    "Code": "PA",
+    "ISO_Alpha": "PAN",
+    "PhoneCode": "+507"
+  },
+  {
+    "Name": "Papua New Guinea",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/pg-flag.jpg",
+    "Population": "6,791,317",
+    "GDP": "$28.02 Billion",
+    "Code": "PG",
+    "ISO_Alpha": "PNG",
+    "PhoneCode": "+675"
+  },
+  {
+    "Name": "Paraguay",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/py-flag.jpg",
+    "Population": "6,862,812",
+    "GDP": "$64.67 Billion",
+    "Code": "PY",
+    "ISO_Alpha": "PRY",
+    "PhoneCode": "+595"
+  },
+  {
+    "Name": "Peru",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/pe-flag.jpg",
+    "Population": "30,741,062",
+    "GDP": "$410.00 Billion",
+    "Code": "PE",
+    "ISO_Alpha": "PER",
+    "PhoneCode": "+51"
+  },
+  {
+    "Name": "Philippines",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ph-flag.jpg",
+    "Population": "102,624,209",
+    "GDP": "$807.00 Billion",
+    "Code": "PH",
+    "ISO_Alpha": "PHL",
+    "PhoneCode": "+63"
+  },
+  {
+    "Name": "Poland",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/pl-flag.jpg",
+    "Population": "38,523,261",
+    "GDP": "$1.05 Trillion",
+    "Code": "PL",
+    "ISO_Alpha": "POL",
+    "PhoneCode": "+48"
+  },
+  {
+    "Name": "Portugal",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/pt-flag.jpg",
+    "Population": "10,833,816",
+    "GDP": "$297.00 Billion",
+    "Code": "PT",
+    "ISO_Alpha": "PRT",
+    "PhoneCode": "+351"
+  },
+  {
+    "Name": "Qatar",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/qa-flag.jpg",
+    "Population": "2,258,283",
+    "GDP": "$335.00 Billion",
+    "Code": "QA",
+    "ISO_Alpha": "QAT",
+    "PhoneCode": "+974"
+  },
+  {
+    "Name": "Romania",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ro-flag.jpg",
+    "Population": "21,599,736",
+    "GDP": "$441.00 Billion",
+    "Code": "RO",
+    "ISO_Alpha": "ROU",
+    "PhoneCode": "+40"
+  },
+  {
+    "Name": "Russia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ru-flag.jpg",
+    "Population": "142,355,415",
+    "GDP": "$3.75 Trillion",
+    "Code": "RU",
+    "ISO_Alpha": "RUS",
+    "PhoneCode": "+7"
+  },
+  {
+    "Name": "Rwanda",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/rw-flag.jpg",
+    "Population": "12,988,423",
+    "GDP": "$21.97 Billion",
+    "Code": "RW",
+    "ISO_Alpha": "RWA",
+    "PhoneCode": "+250"
+  },
+  {
+    "Name": "Saint Kitts and Nevis",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/kn-flag.jpg",
+    "Population": "52,329",
+    "GDP": "$1.43 Billion",
+    "Code": "KN",
+    "ISO_Alpha": "KNA",
+    "PhoneCode": "+1-869"
+  },
+  {
+    "Name": "Saint Lucia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/lc-flag.jpg",
+    "Population": "164,464",
+    "GDP": "$2.08 Billion",
+    "Code": "LC",
+    "ISO_Alpha": "LCA",
+    "PhoneCode": "+1-758"
+  },
+  {
+    "Name": "Samoa",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ws-flag.jpg",
+    "Population": "198,926",
+    "GDP": "$1.05 Billion",
+    "Code": "WS",
+    "ISO_Alpha": "WSM",
+    "PhoneCode": "+685"
+  },
+  {
+    "Name": "San Marino",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sm-flag.jpg",
+    "Population": "33,285",
+    "GDP": "$2.02 Billion",
+    "Code": "SM",
+    "ISO_Alpha": "SMR",
+    "PhoneCode": "+378"
+  },
+  {
+    "Name": "Sao Tome and Principe",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/st-flag.jpg",
+    "Population": "197,541",
+    "GDP": "$694.00 Million",
+    "Code": "ST",
+    "ISO_Alpha": "STP",
+    "PhoneCode": "+239"
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sa-flag.jpg",
+    "Population": "28,160,273",
+    "GDP": "$1.73 Trillion",
+    "Code": "SA",
+    "ISO_Alpha": "SAU",
+    "PhoneCode": "+966"
+  },
+  {
+    "Name": "Senegal",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sn-flag.jpg",
+    "Population": "14,320,055",
+    "GDP": "$39.72 Billion",
+    "Code": "SN",
+    "ISO_Alpha": "SEN",
+    "PhoneCode": "+221"
+  },
+  {
+    "Name": "Serbia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/rs-flag.jpg",
+    "Population": "7,143,921",
+    "GDP": "$102.00 Billion",
+    "Code": "RS",
+    "ISO_Alpha": "SRB",
+    "PhoneCode": "+381"
+  },
+  {
+    "Name": "Seychelles",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sc-flag.jpg",
+    "Population": "93,186",
+    "GDP": "$2.61 Billion",
+    "Code": "SC",
+    "ISO_Alpha": "SYC",
+    "PhoneCode": "+248"
+  },
+  {
+    "Name": "Sierra Leone",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sl-flag.jpg",
+    "Population": "6,018,888",
+    "GDP": "$10.64 Billion",
+    "Code": "SL",
+    "ISO_Alpha": "SLE",
+    "PhoneCode": "+232"
+  },
+  {
+    "Name": "Singapore",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sg-flag.jpg",
+    "Population": "5,781,728",
+    "GDP": "$488.00 Billion",
+    "Code": "SG",
+    "ISO_Alpha": "SGP",
+    "PhoneCode": "+65"
+  },
+  {
+    "Name": "Slovakia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sk-flag.jpg",
+    "Population": "5,445,802",
+    "GDP": "$169.00 Billion",
+    "Code": "SK",
+    "ISO_Alpha": "SVK",
+    "PhoneCode": "+421"
+  },
+  {
+    "Name": "Slovenia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/si-flag.jpg",
+    "Population": "1,978,029",
+    "GDP": "$68.35 Billion",
+    "Code": "SI",
+    "ISO_Alpha": "SVN",
+    "PhoneCode": "+386"
+  },
+  {
+    "Name": "Solomon Islands",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sb-flag.jpg",
+    "Population": "635,027",
+    "GDP": "$1.20 Billion",
+    "Code": "SB",
+    "ISO_Alpha": "SLB",
+    "PhoneCode": "+677"
+  },
+  {
+    "Name": "Somalia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/so-flag.jpg",
+    "Population": "10,817,354",
+    "GDP": "$4.72 Billion",
+    "Code": "SO",
+    "ISO_Alpha": "SOM",
+    "PhoneCode": "+252"
+  },
+  {
+    "Name": "South Africa",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/za-flag.jpg",
+    "Population": "54,300,704",
+    "GDP": "$739.00 Billion",
+    "Code": "ZA",
+    "ISO_Alpha": "ZAF",
+    "PhoneCode": "+27"
+  },
+  {
+    "Name": "South Korea",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/kr-flag.jpg",
+    "Population": "50,924,172",
+    "GDP": "$1.93 Trillion",
+    "Code": "KOR",
+    "ISO_Alpha": "+82",
+    "PhoneCode": ""
+  },
+  {
+    "Name": "South Sudan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ss-flag.jpg",
+    "Population": "12,530,717",
+    "GDP": "$20.88 Billion",
+    "Code": "SS",
+    "ISO_Alpha": "SSD",
+    "PhoneCode": "+"
+  },
+  {
+    "Name": "Spain",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/es-flag.jpg",
+    "Population": "48,563,476",
+    "GDP": "$1.69 Trillion",
+    "Code": "ES",
+    "ISO_Alpha": "ESP",
+    "PhoneCode": "+34"
+  },
+  {
+    "Name": "Sri Lanka",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/lk-flag.jpg",
+    "Population": "21,203,000",
+    "GDP": "$237.00 Billion",
+    "Code": "LK",
+    "ISO_Alpha": "LKA",
+    "PhoneCode": "+94"
+  },
+  {
+    "Name": "Saint Vincent and the Grenadines",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/vc-flag.jpg",
+    "Population": "102,350",
+    "GDP": "$1.24 Billion",
+    "Code": "VC",
+    "ISO_Alpha": "VCT",
+    "PhoneCode": "+1-784"
+  },
+  {
+    "Name": "Sudan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sd-flag.jpg",
+    "Population": "36,729,501",
+    "GDP": "$176.00 Billion",
+    "Code": "SD",
+    "ISO_Alpha": "SDN",
+    "PhoneCode": "+249"
+  },
+  {
+    "Name": "Suriname",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sr-flag.jpg",
+    "Population": "585,824",
+    "GDP": "$8.55 Billion",
+    "Code": "SR",
+    "ISO_Alpha": "SUR",
+    "PhoneCode": "+597"
+  },
+  {
+    "Name": "Sweden",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/se-flag.jpg",
+    "Population": "9,880,604",
+    "GDP": "$498.00 Billion",
+    "Code": "SE",
+    "ISO_Alpha": "SWE",
+    "PhoneCode": "+46"
+  },
+  {
+    "Name": "Switzerland",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ch-flag.png",
+    "Population": "8,179,294",
+    "GDP": "$496.00 Billion",
+    "Code": "CH",
+    "ISO_Alpha": "CHE",
+    "PhoneCode": "+41"
+  },
+  {
+    "Name": "Syria",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/sy-flag.jpg",
+    "Population": "17,185,170",
+    "GDP": "$50.28 Billion",
+    "Code": "SY",
+    "ISO_Alpha": "SYR",
+    "PhoneCode": "+963"
+  },
+  {
+    "Name": "Tajikistan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tj-flag.jpg",
+    "Population": "8,330,946",
+    "GDP": "$25.81 Billion",
+    "Code": "TJ",
+    "ISO_Alpha": "TJK",
+    "PhoneCode": "+992"
+  },
+  {
+    "Name": "Tanzania",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tz-flag.jpg",
+    "Population": "52,482,726",
+    "GDP": "$151.00 Billion",
+    "Code": "TZ",
+    "ISO_Alpha": "TZA",
+    "PhoneCode": "+255"
+  },
+  {
+    "Name": "Thailand",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/th-flag.jpg",
+    "Population": "68,200,824",
+    "GDP": "$1.16 Trillion",
+    "Code": "TH",
+    "ISO_Alpha": "THA",
+    "PhoneCode": "+66"
+  },
+  {
+    "Name": "East Timor",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tl-flag.jpg",
+    "Population": "1,261,072",
+    "GDP": "$4.98 Billion",
+    "Code": "TL",
+    "ISO_Alpha": "TLS",
+    "PhoneCode": "+670"
+  },
+  {
+    "Name": "Togo",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tg-flag.jpg",
+    "Population": "7,756,937",
+    "GDP": "$11.61 Billion",
+    "Code": "TG",
+    "ISO_Alpha": "TGO",
+    "PhoneCode": "+228"
+  },
+  {
+    "Name": "Tonga",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/to-flag.jpg",
+    "Population": "106,513",
+    "GDP": "$557.00 Million",
+    "Code": "TO",
+    "ISO_Alpha": "TON",
+    "PhoneCode": "+676"
+  },
+  {
+    "Name": "Trinidad and Tobago",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tt-flag.jpg",
+    "Population": "1,220,479",
+    "GDP": "$43.57 Billion",
+    "Code": "TT",
+    "ISO_Alpha": "TTO",
+    "PhoneCode": "+1-868"
+  },
+  {
+    "Name": "Tunisia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tn-flag.jpg",
+    "Population": "11,134,588",
+    "GDP": "$131.00 Billion",
+    "Code": "TN",
+    "ISO_Alpha": "TUN",
+    "PhoneCode": "+216"
+  },
+  {
+    "Name": "Turkey",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tr-flag.jpg",
+    "Population": "80,274,604",
+    "GDP": "$1.70 Trillion",
+    "Code": "TR",
+    "ISO_Alpha": "TUR",
+    "PhoneCode": "+90"
+  },
+  {
+    "Name": "Turkmenistan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tm-flag.jpg",
+    "Population": "5,291,317",
+    "GDP": "$94.72 Billion",
+    "Code": "TM",
+    "ISO_Alpha": "TKM",
+    "PhoneCode": "+993"
+  },
+  {
+    "Name": "Tuvalu",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/tv-flag.jpg",
+    "Population": "10,959",
+    "GDP": "$39.00 Million",
+    "Code": "TV",
+    "ISO_Alpha": "TUV",
+    "PhoneCode": "+688"
+  },
+  {
+    "Name": "Uganda",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ug-flag.jpg",
+    "Population": "38,319,241",
+    "GDP": "$84.93 Billion",
+    "Code": "UG",
+    "ISO_Alpha": "UGA",
+    "PhoneCode": "+256"
+  },
+  {
+    "Name": "Ukraine",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ua-flag.jpg",
+    "Population": "44,209,733",
+    "GDP": "$353.00 Billion",
+    "Code": "UA",
+    "ISO_Alpha": "UKR",
+    "PhoneCode": "+380"
+  },
+  {
+    "Name": "United Arab Emirates",
+    "Flag": "https://www.worldatlas.com/r/w425/upload/f4/a6/ab/uae-flag.png",
+    "Population": "5,927,482",
+    "GDP": "$667.00 Billion",
+    "Code": "AE",
+    "ISO_Alpha": "ARE",
+    "PhoneCode": "+971"
+  },
+  {
+    "Name": "United Kingdom",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/uk-flag.jpg",
+    "Population": "64,430,428",
+    "GDP": "$2.79 Trillion",
+    "Code": "GB",
+    "ISO_Alpha": "GBR",
+    "PhoneCode": "+44"
+  },
+  {
+    "Name": "United States",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/us-flag.jpg",
+    "Population": "323,995,528",
+    "GDP": "$18.60 Trillion",
+    "Code": "US",
+    "ISO_Alpha": "USA",
+    "PhoneCode": "+1"
+  },
+  {
+    "Name": "Uruguay",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/uy-flag.jpg",
+    "Population": "3,351,016",
+    "GDP": "$73.25 Billion",
+    "Code": "UY",
+    "ISO_Alpha": "URY",
+    "PhoneCode": "+598"
+  },
+  {
+    "Name": "Uzbekistan",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/uz-flag.jpg",
+    "Population": "29,473,614",
+    "GDP": "$202.00 Billion",
+    "Code": "UZ",
+    "ISO_Alpha": "UZB",
+    "PhoneCode": "+998"
+  },
+  {
+    "Name": "Vanuatu",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/vu-flag.jpg",
+    "Population": "277,554",
+    "GDP": "$723.00 Million",
+    "Code": "VU",
+    "ISO_Alpha": "VUT",
+    "PhoneCode": "+678"
+  },
+  {
+    "Name": "Venezuela",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ve-flag.jpg",
+    "Population": "30,912,302",
+    "GDP": "$469.00 Billion",
+    "Code": "VE",
+    "ISO_Alpha": "VEN",
+    "PhoneCode": "+58"
+  },
+  {
+    "Name": "Vietnam",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/vn-flag.jpg",
+    "Population": "95,261,021",
+    "GDP": "$595.00 Billion",
+    "Code": "VN",
+    "ISO_Alpha": "VNM",
+    "PhoneCode": "+84"
+  },
+  {
+    "Name": "Yemen",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/ye-flag.jpg",
+    "Population": "27,392,779",
+    "GDP": "$73.45 Billion",
+    "Code": "YE",
+    "ISO_Alpha": "YEM",
+    "PhoneCode": "+967"
+  },
+  {
+    "Name": "Zambia",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/zm-flag.jpg",
+    "Population": "15,510,711",
+    "GDP": "$65.17 Billion",
+    "Code": "ZM",
+    "ISO_Alpha": "ZMB",
+    "PhoneCode": "+260"
+  },
+  {
+    "Name": "Zimbabwe",
+    "Flag": "https://www.worldatlas.com/r/w425/img/flag/zw-flag.jpg",
+    "Population": "14,546,961",
+    "GDP": "$28.33 Billion",
+    "Code": "ZW",
+    "ISO_Alpha": "ZWE",
+    "PhoneCode": "+263"
+  }
+]
