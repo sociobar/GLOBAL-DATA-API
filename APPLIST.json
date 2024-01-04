@@ -1,0 +1,412 @@
+{
+    "SOCIOBAE": [
+        {
+            "name": "",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": ""
+        }
+    ],
+    "News and Information": [
+        {
+            "name": "National Geographic",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.nationalgeographic.com/"
+        }
+    ],
+    "E-commerce": [
+        {
+            "name": "Shopclues",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.shopclues.com/"
+        },
+        {
+            "name": "flipkart",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.flipkart.com/"
+        },
+        {
+            "name": "Amazon",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": {
+                "India": "https://www.amazon.in/",
+                "USA": "https://www.amazon.com/"
+            }
+        },
+        {
+            "name": "Indiamart",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": {
+                "India": "https://www.indiamart.com/"
+            }
+        }
+    ],
+    "Social Media": [
+        {
+            "name": "Instagram",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.instagram.com"
+        },
+        {
+            "name": "facebook",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.facebook.com/"
+        },
+        {
+            "name": "Twitter",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.twitter.com"
+        }
+    ],
+    "Search Engines": [
+        {
+            "name": "duckduckgo",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.duckduckgo.com"
+        },
+        {
+            "name": "Bing",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.bing.com"
+        },
+        {
+            "name": "Yahoo",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.yahoo.com"
+        },
+        {
+            "name": "Google",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.google.com"
+        }
+    ],
+    "Educational Platforms": [
+        {
+            "name": "Geeks For Geeks",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.geeksforgeeks.com/"
+        },
+        {
+            "name": "w3Schools",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.w3schools.com"
+        },
+        {
+            "name": "freeCodeCamp",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.freecodecamp.org/"
+        },
+        {
+            "name": "Udemy",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.udemy.com/"
+        },
+        {
+            "name": "Coursera",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.coursera.org/"
+        },
+        {
+            "name": "Khan Academy",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.khanacademy.org/"
+        },
+        {
+            "name": "edx",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.edx.org/"
+        }
+    ],
+    "Blogs and Personal Websites": [
+        {
+            "name": "Medium",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://medium.com/"
+        },
+        {
+            "name": "Wordpress",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://wordpress.com/"
+        },
+        {
+            "name": "Wix",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.wix.com/"
+        }
+    ],
+    "Business and Corporate Websites": [],
+    "Government Websites": [
+        {
+            "name": "USA.gov",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.usa.gov/"
+        },
+        {
+            "name": "Gov.uk",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.gov.uk/"
+        },
+        {
+            "name": "Canada.ca ",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.canada.ca/"
+        }
+    ],
+    "Health and Wellness": [
+        {
+            "name": "WebMD",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.webmd.com/"
+        },
+        {
+            "name": "Mayo Clinic",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.mayoclinic.org/"
+        },
+        {
+            "name": "Healthline ",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.healthline.com/"
+        }
+    ],
+    "Technology and Gadgets": [
+        {
+            "name": "Wired",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.wired.com/"
+        },
+        {
+            "name": "TechCrunch",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://techcrunch.com/"
+        },
+        {
+            "name": "The Verge",
+            "Category_Code": "",
+            "Product Code": "",
+            "Port": {
+                "HTTPS": 80,
+                "Personal": 12496
+            },
+            "Description": {},
+            "Logo": "",
+            "URL": "https://www.theverge.com/"
+        }
+    ]
+}
